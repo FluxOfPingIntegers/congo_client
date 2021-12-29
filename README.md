@@ -12,7 +12,7 @@ This is a 2d delivery game that utilizes a Ruby On Rails backend API serving JSO
 
 ## Installation
 
-* First: You will need developer software, I used Visual Studio Code. Depending on your operating system you should follow these instructions: [Windows](https://code.visualstudio.com/docs/setup/windows) [macOS](https://code.visualstudio.com/docs/setup/mac) [Linux](https://code.visualstudio.com/docs/setup/linux)
+* First: You will need developer software, I used Visual Studio Code. Depending on your operating system you should follow these instructions: [Windows](https://code.visualstudio.com/docs/setup/windows) | [macOS](https://code.visualstudio.com/docs/setup/mac) | [Linux](https://code.visualstudio.com/docs/setup/linux)
 
 * Second: You will need to clone the repo for this software and pull it up in VS Code. In your terminal please navigate to the folder you would like the files for this software to be and type 
 ```bash
