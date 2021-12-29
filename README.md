@@ -1,4 +1,4 @@
-## Congo Delivery Service
+# Congo Delivery Service
 
 This is a 2d delivery game that utilizes a Ruby On Rails backend API serving JSON data via RESTful routes.  The data fetched from this API is then used to populate the game.  You have a certain amount of time to deliver the packages to each highlighted house via your delivery driver/van.
 
