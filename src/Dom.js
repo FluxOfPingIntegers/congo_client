@@ -128,7 +128,7 @@ class Dom {
         Dom.stats.appendChild(user);
         this.removeAllChildNodes(this.scores);
         let scoreLabel = document.createElement("p")
-        scoreLabel.innerText = `----------HIGH SCORES----------`
+        scoreLabel.innerText = `---------HIGH SCORES----------`
         let scores = document.createElement("ul");
         let count = 0
         for (const score of Location.all[0].highScores()) {
